@@ -1,0 +1,28 @@
+{
+  "name": "purenodeapp",
+  "version": "1.0.0",
+  "description": "this is simple pure node app",
+  "main": "app\index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TameshwarNirmalkar/PureNodeApp.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongo"
+  ],
+  "author": "Tameshwar Nirmalkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TameshwarNirmalkar/PureNodeApp/issues"
+  },
+  "homepage": "https://github.com/TameshwarNirmalkar/PureNodeApp#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "livereload": "^0.6.0"
+  }
+}
